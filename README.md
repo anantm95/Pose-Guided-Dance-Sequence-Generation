@@ -1,2 +1,9 @@
 # pose-guided-dance-generation
-Source Code for Enhanced Conditional U-Net based Pose Guided Dance Sequence Generation
+Source Code for Enhanced Variational U-Net based Pose Guided Dance Sequence Generation
+
+This is an extension to the work done by Esser et. al titled 'A Variational U-Net for Conditional Appearance and Shape Generation'. 
+
+The improved model with adversarial training using output pf a pretrained VGG19 model, combined with perceptual loss gives robustness to the model for complex poses. The new model also captures semantic details (eg. skin color, clothing details, etc) better than the original model.
+
+Results and a supplemental video for this project can be found here:
+https://drive.google.com/open?id=1HbuDx-_JgvLN-OHeShfChESON2t1a59I
