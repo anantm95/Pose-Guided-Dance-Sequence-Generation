@@ -1,5 +1,5 @@
-# pose-guided-dance-generation
-Source Code for Enhanced Variational U-Net based Pose Guided Dance Sequence Generation
+# Enhanced Variational U-net for Pose-Guided Dance Sequence Generation
+This project aims at using Variotional Autoencoders with adversarial learning in order to transfer a pose from one person to another maintaining the clothing and other semantic details. We generate dance sequences via frame-to-frame transfer.
 
 This is an extension to the work done by Esser et. al titled 'A Variational U-Net for Conditional Appearance and Shape Generation'. 
 
